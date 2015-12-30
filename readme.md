@@ -36,11 +36,12 @@ npm test
 
 ## Dependencies
 
-- [array-from](https://github.com/studio-b12/array-from): A ponyfill for the ES 2015 (ES6) `Array.from()`.
+- [es6-set](https://github.com/medikoo/es6-set): ECMAScript6 Set polyfill
 
 ## Dev Dependencies
 
-- [es6-set](https://github.com/medikoo/es6-set): ECMAScript6 Set polyfill
+- [array-from](https://github.com/studio-b12/array-from): A ponyfill for the ES 2015 (ES6) `Array.from()`.
+- [fill-range](https://github.com/jonschlinkert/fill-range): Fill in a range of numbers or letters, optionally passing an increment or multiplier to use.
 - [tape](https://github.com/substack/tape): tap-producing test harness for node and browsers
 
 
