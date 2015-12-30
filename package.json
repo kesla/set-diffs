@@ -1,6 +1,6 @@
 {
   "name": "set-diffs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get diff (added, removed, changed, unchanged) from two Sets",
   "main": "index.js",
   "scripts": {
