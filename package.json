@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/kesla/set-diffs#readme",
   "devDependencies": {
+    "array-from": "^2.0.2",
     "fill-range": "^2.2.3",
     "tape": "^4.2.2"
   },
   "dependencies": {
-    "array-from": "^2.0.2",
     "es6-set": "^0.1.3"
   }
 }

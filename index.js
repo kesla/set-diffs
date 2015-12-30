@@ -1,6 +1,5 @@
 'use strict';
 
-var arrayFrom = require('array-from');
 var Set = require('es6-set');
 
 module.exports = function (a, b) {
